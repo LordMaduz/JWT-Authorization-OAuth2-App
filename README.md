@@ -115,7 +115,6 @@ Application starts on http://localhost:8080
 ## Related Articles
 
 For a detailed step-by-step guide, check out my Medium article:
-<img width="727" height="779" alt="Screenshot 2025-10-14 at 2 33 10 PM" src="https://github.com/user-attachments/assets/b8e914d0-8e40-44df-ac8c-e95e7918fc0b" />
 
+[JWT Authorization With Spring Security 6](https://levelup.gitconnected.com/jwt-authorization-with-spring-boot-3-and-spring-security-6-69dfd11321ff)
 
-https://levelup.gitconnected.com/jwt-authorization-with-spring-boot-3-and-spring-security-6-69dfd11321ff
